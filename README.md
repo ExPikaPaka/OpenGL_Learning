@@ -3,17 +3,15 @@
 This project was designed as educational expiriment. It uses C++ language, OpenGL for rendering. The program is simple tweakable environment, where you could play with different types of light, importing model, and expirimenting with different values, such as "What would be, if ligth spreads negative?"
 
 ## Demo photos
-
-![demo_1](https://github.com/ExPikaPaka/adwlacfaw656e)
-![demo_2](https://github.com/ExPikaPaka/dadaackawf6e1c98cf81)
-![demo_3](https://github.com/ExPikaPaka/glwfa8d2d29db9b)
-![demo_4](https://github.com/ExPikaPaka/dlawf5d92461dab)
-
+![demo_1](https://github.com/ExPikaPaka/OpenGL_Learning/assets/112851715/499e2a78-8d68-4b55-98a0-955ba4e0069f)
+![demo_2](https://github.com/ExPikaPaka/OpenGL_Learning/assets/112851715/cce0b9b2-cad9-450b-9525-936c74f57cc9)
+![demo_3](https://github.com/ExPikaPaka/OpenGL_Learning/assets/112851715/0d9c63ab-eecf-4a3f-a304-d909bfaee3f7)
+![demo_4](https://github.com/ExPikaPaka/OpenGL_Learning/assets/112851715/f10cfb08-86e5-4a57-ac51-c07c43a09e97)
 
 
 ## Installation
 
-Actually you could build the project, but just has no sense, cause there is not to much something special about. So, to build the project, you need to link libraries, and tweak some values for your platform.
+Actually you could build the project, but it just has no sense, cause there is not to much something special about. So, to build the project, you need to link libraries, and tweak some values for your platform.
 
 ## Control
 
